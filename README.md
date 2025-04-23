@@ -43,10 +43,10 @@ This dashboard enables quantitative analysts, traders, and researchers to:
 
 ---
 
-## 📸 Sample UI
+## 📸 
 
-> Example:  
-![Futures Selection](screenshots/futures_selection.png)
+<img width="1425" alt="Screenshot 2025-04-23 at 1 45 08 PM" src="https://github.com/user-attachments/assets/f6fd7f92-379b-4546-b482-aee567dd3de5" />
+
 
 ---
 
